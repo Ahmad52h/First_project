@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Navigation Bar */
+.navbar {
+    
+    display: flex;
+    width: auto;
+    height: 50px;
+    justify-content: space-between;
+    background-color: #033703;
+    padding: 1rem;
+}
+
+.navbar-left .nav-item {
+    justify-content: space-between;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(248, 248, 248);
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+
+
+
+
+.img1{
+    width:70px;
+    height:70px;
+    border-radius: 50%;
+    align-items: raight 1000px;
+}    
+
+.divider{
+    width: 1px;
+    height: 1px;
+    background-color: #000000;
+    margin: 0 10px;
+}
+
+
